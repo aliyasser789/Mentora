@@ -1,0 +1,8 @@
+Flask
+SQLAlchemy
+psycopg2-binary
+alembic
+python-dotenv
+passlib[bcrypt]
+PyJWT
+

@@ -1,0 +1,6 @@
+Generic single-database configuration.
+
+Run migrations from the backend directory:
+
+    alembic revision --autogenerate -m "message"
+    alembic upgrade head
